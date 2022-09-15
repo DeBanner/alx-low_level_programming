@@ -6,7 +6,7 @@
  * Return:void
  */
 
-void print_times_tables
+void print_times_table(int n)
 {
 
 int a = 0, rep, b;
@@ -49,3 +49,4 @@ while (a <= n)
 	a++;
 }
 }
+
