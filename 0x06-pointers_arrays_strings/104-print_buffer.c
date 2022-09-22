@@ -38,7 +38,6 @@ void print_buffer(char *b, int size)
 	}
 	
 	if (byte >= size)
-		continue;
 
 	printf("\n");
 }
