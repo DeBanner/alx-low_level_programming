@@ -3,8 +3,8 @@
 
 /**
  * main - searchs for an integer
- *@argc: number of arguments
- *@argv: array with arguments
+ * @argc: number of arguments
+ * @argv: array with arguments
  *
  * Return: no return
  */
